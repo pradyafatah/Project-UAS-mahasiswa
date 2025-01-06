@@ -55,6 +55,10 @@ Modul ini digunakan untuk menampilkan data ke pengguna. Semua format output dike
 File utama aplikasi yang mengintegrasikan semua modul. File ini memuat implementasi langsung dari fitur seperti menambah, mencari, menampilkan, dan menghapus data mahasiswa.
 ![image](https://github.com/user-attachments/assets/188c2fa5-fab4-40cf-bf42-e0f39caae36d)
 
+## Hasil
+![Cuplikan layar 2025-01-07 055615](https://github.com/user-attachments/assets/15db0bf1-e4aa-492e-b719-adfca48193c0)
+
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------
