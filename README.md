@@ -36,6 +36,8 @@ Project_Mahasiswa/
 │   ├── __pycache__/ (Placeholder)
 ├── main.py
 ├── __pycache__/ (Placeholder)
+
+py
 ```
 ###### `class_data/data.py`
 Modul ini bertanggung jawab untuk mendefinisikan kelas Mahasiswa dan DataMahasiswa. Kelas Mahasiswa merepresentasikan objek mahasiswa, sedangkan DataMahasiswa mengelola daftar mahasiswa, termasuk metode untuk menambahkan dan mengambil data.
